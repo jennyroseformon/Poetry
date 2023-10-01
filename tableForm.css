@@ -154,10 +154,9 @@ body {
 footer {
 	font-size: 16px;
 	font-weight: bold;
-	text-align: center;
+	text-align: left;
 	margin-top: 100px;
 	color: #ffffff;
-	padding: 20px;
 	backgroung-color: #354f52;
 	height: 60px;
 	width: 100%;
