@@ -157,6 +157,8 @@ footer {
 	text-align: center;
 	margin-top: 100px;
 	color: #ffffff;
+	padding: 20px;
+	backgroung-color: #354f52;
 }
 	.span-p {
 		display: block; 
